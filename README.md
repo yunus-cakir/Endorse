@@ -3,7 +3,7 @@
 Endorse is a **cryptocurrency trading platform** built entirely with **Mendix Low-Code**.  
 It connects to live market APIs, allowing users to trade digital assets, approve transactions, and manage wallets through a simplified and intuitive interface.
 
-https://github.com/user-attachments/assets/22834f03-a458-46ce-96c3-77871ac0dba5
+![Interface](https://github.com/user-attachments/assets/54fe1e3d-a407-43f0-9632-9079e6b2872f)
 
 ---
 
