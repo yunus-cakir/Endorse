@@ -1,4 +1,4 @@
-# Endorse – Low-Code Binance Clone
+# Endorse: Low-Code Binance Alternative
 
 Endorse is a **cryptocurrency trading platform** built entirely with **Mendix Low-Code**.  
 It connects to live market APIs, allowing users to trade digital assets, approve transactions, and manage wallets through a simplified and intuitive interface.
