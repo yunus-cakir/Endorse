@@ -1,0 +1,71 @@
+@import '../../../theme/web/custom-variables';
+
+.endorse-test{
+    font-style: italic;
+}
+
+.endorse-navigation{
+    font-weight:900;
+}
+
+.endorse-border{
+    border: 1.5px solid #2b3139;
+    border-radius: 15px;
+    padding-top: 20px;
+}
+
+.endorse-top-pad{
+    padding-top: 20px;
+}
+
+.endorse-pad{
+    padding: 20px 10px 10px 20px;
+}
+
+.endorse-pad-sym{
+    padding: 10px;
+
+}
+
+.endorse-background{
+    background-color: #181a20;
+    background: #181a20;
+}
+
+.endorse-filled{
+    color: #white;
+    background-color:#1e2329;
+    background: #1e2329;
+}
+
+.endorse-primary{
+    color:#f0b90b;
+}
+
+.endorse-home-header{
+    line-height: 1;
+    font-size:64px;
+    font-weight:625;
+}
+
+.endorse-bold{
+    font-weight: bold;
+}
+
+.endorse-middle {
+vertical-align:middle;
+}
+
+.endorse-middle-2{
+vertical-align:middle;
+height: 100px;
+line-height: 100px;
+text-align: center;
+}
+
+.endorse-middle-3{
+vertical-align:middle;
+text-align: center;
+height: 100px;
+text-align: center;
+}
