@@ -1,4 +1,5 @@
 # Endorse: Low-Code Binance Alternative
+<img width="1664" height="434" alt="EndorseDesignSystem$EndorseImages$Logo" src="https://github.com/user-attachments/assets/34ae1f90-19e8-4547-b132-eab018e10a1c" />
 
 Endorse is a **cryptocurrency trading platform** built entirely with **Mendix Low-Code**.  
 It connects to live market APIs, allowing users to trade digital assets, approve transactions, and manage wallets through a simplified and intuitive interface.
